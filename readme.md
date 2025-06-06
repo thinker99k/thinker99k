@@ -8,7 +8,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Education & Experience
-- B.S Degree Expected in Software Engineering, SoongSil Univ.
+- B.S Degree Expected in Software Science, SoongSil Univ.
 - [Cyber Security Research Center](https://csec.ssu.ac.kr/) Undergraduated Research Student (25.01~)
 
 ### Equipments
