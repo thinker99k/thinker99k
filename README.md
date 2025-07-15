@@ -10,8 +10,8 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 
 ### Education & Experience
-- B.S Degree Expected in Software, Soongsil Univ.
-- [Cyber Security Research Center](https://csec.ssu.ac.kr/) Undergraduated Research Student (25.01~)
+- B.S Degree in Software, Soongsil Univ.
+- [Cyber Security Research Center](https://csec.ssu.ac.kr/) Research Student (25.01~)
 
 ### Equipments & Environments
 ![thinkpad](https://img.shields.io/badge/T_Series-FF0000?logo=lenovo&logoColor=white)
