@@ -11,7 +11,7 @@
 
 ### Education & Experience
 - B.S Degree in Software, Soongsil Univ.
-- [Cyber Security Research Center](https://csec.ssu.ac.kr/) Research Student (25.01~)
+- [Cyber Security Research Center](https://csec.ssu.ac.kr/) Research Student
 
 ### Equipments & Environments
 ![thinkpad](https://img.shields.io/badge/T_Series-FF0000?logo=lenovo&logoColor=white)
