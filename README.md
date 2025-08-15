@@ -17,8 +17,6 @@
 ### Equipments & Environments
 ![thinkpad](https://img.shields.io/badge/T_Series-FF0000?logo=lenovo&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)\
-![microserver](https://img.shields.io/badge/MicroServer-01A982?logo=hp&logoColor=white)
-![debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 
 ---
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thinker99)](https://solved.ac/thinker99)\
