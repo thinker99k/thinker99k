@@ -16,8 +16,7 @@
 
 ### Equipments & Environments
 ![thinkpad](https://img.shields.io/badge/T_Series-FF0000?logo=lenovo&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)\
 Home server dead on Aug 16 '25... looking for new one
 
 ---
