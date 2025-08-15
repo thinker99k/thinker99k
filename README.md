@@ -18,7 +18,7 @@
 ![thinkpad](https://img.shields.io/badge/T_Series-FF0000?logo=lenovo&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-Home serever dead on Aug 16 '25... looking for new one
+Home server dead on Aug 16 '25... looking for new one
 
 ---
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thinker99)](https://solved.ac/thinker99)
