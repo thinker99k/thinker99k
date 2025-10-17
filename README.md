@@ -3,7 +3,6 @@
 ![c++](https://img.shields.io/badge/C%2B%2B11-00599C?logo=c%2B%2B&logoColor=white)
 ![shell](https://img.shields.io/badge/Shell_Script-006000?logo=gnu-bash&logoColor=white)
 ![asm](https://img.shields.io/badge/x86_Asm-404040?logo=assemblyscript&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![java](https://img.shields.io/badge/Java-007396?logoColor=white)\
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
