@@ -5,7 +5,7 @@
 ![asm](https://img.shields.io/badge/x86_Asm-404040?logo=assemblyscript&logoColor=white)
 ![shell](https://img.shields.io/badge/Shell_Script-006000?logo=gnu-bash&logoColor=white)\
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)\
+![mysql](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 
