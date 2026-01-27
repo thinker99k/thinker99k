@@ -13,12 +13,9 @@
 - B.S Degree expected in Software, Soongsil Univ.
 - [Cyber Security Research Center](https://csec.ssu.ac.kr/) Research Student (25.01 ~ 25.11)
 
-### Equipments & Environments
-![thinkpad](https://img.shields.io/badge/T_Series-FF0000?logo=lenovo&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)\
-Home server dead on Aug 16 '25... looking for new one
-
 ---
+![thinkpad](https://img.shields.io/badge/T_Series-FF0000?logo=lenovo&logoColor=white)
+![fedora](https://img.shields.io/badge/Fedora-51A2DA?&logo=fedora&logoColor=white)\
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thinker99)](https://solved.ac/thinker99)
 
 [**JAVASCRIPT SUCKS**](https://github.com/denysdovhan/wtfjs)
