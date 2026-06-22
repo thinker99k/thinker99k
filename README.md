@@ -18,7 +18,7 @@
 ![macmini](https://img.shields.io/badge/Mac_mini-333333?logo=apple&logoColor=white)\
 ![fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
 ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![vim](	https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
+![vim](	https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 
 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thinker99)](https://solved.ac/thinker99)\
