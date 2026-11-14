@@ -20,5 +20,6 @@
 ![junie](https://img.shields.io/badge/Junie-4adf55?logo=jetbrains&logoColor=white)
 
 ---
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thinker99)](https://solved.ac/thinker99)\
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thinker99)](https://solved.ac/thinker99)
+
 [**JAVASCRIPT SUCKS**](https://github.com/denysdovhan/wtfjs)
